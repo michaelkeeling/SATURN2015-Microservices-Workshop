@@ -13,6 +13,7 @@ This workshop will explore various facets of microservices architecture.  Based 
 ## Concerns
 - Big Balls of Mud -- What’s to prevent a system adopting microservices from turning into just another Big Ball of Mud?
 - Monolith Straw man -- Nearly all microservices proponents pick on an unmaintainable, abominable "monolithic application".  Does this monolith application boogeyman actually exist?  What aspects of this straw man deserve our attention and which are intentional falsehoods set up for the sake of argument?
+- Dependency management -- While services themselves might be independently deployable, individual services often rely on others. Add to this the significant groundwork required for automated deployment and maintenance.  What are the challenges and what strategies exist for managing dependencies among services?  What gaps remain?
 
 ## Evaluation
 - Potential Future Benefits (or Problems) -- Microservices seems to have already enabled new ways of thinking about deployment and testing.  What other potential software development innovations might be awaiting us that were not possible or cost prohibitive using other architecture approaches?  Or... might larger problems be looming on the horizon?
