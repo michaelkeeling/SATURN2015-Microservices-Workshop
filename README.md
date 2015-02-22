@@ -14,14 +14,14 @@ The workshop will take place on Monday, April 27, 2015 in [Baltimore, MD during 
 
 **More Information**
 
-- [How to Join the Workshop](wiki/How-to-Join-the-Workshop)
+- [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/How-to-Join-the-Workshop)
 - [Motivating Questions for Position Papers](questions.md)
 - [Reference Material to help Prepare for the Workshop](references.md)
-- [Tentative Workshop Agenda](wiki/Workshop-Agenda)
+- [Tentative Workshop Agenda](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/Workshop-Agenda)
 
 ## Position Papers
 
-
+See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/How-to-Join-the-Workshop).
 
 
 
@@ -35,8 +35,8 @@ The 11th SEI Architecture Technology User Network (SATURN) Conference — the lo
 
 ## Workshop Organizers
 
-* Michael Keeling
-* George Fairbanks
+* [Michael Keeling](https://github.com/michaelkeeling)
+* [George Fairbanks](https://github.com/georgefairbanks) 
 * Bill Pollak
 
 ## Acknowledgements
