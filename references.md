@@ -2,6 +2,7 @@ We encourage attendees to help us curate a list of good reading on the topic.  I
 
 * [James Lewis and Martin Fowler. Microservices](http://martinfowler.com/articles/microservices.html)
 * [Andrew Harmel-Law. Microservices - A Reality Check(point)](http://capgemini.github.io/architecture/microservices-reality-check/)
+* Mauro, Tony. [Adopting Microservices at Netflix: Lessons for Architectural Design](http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/) NGiNX blog. February, 2015
 * [Adrian Cockcroft. Migrating to Microservices](http://gotocon.com/dl/goto-berlin-2014/slides/AdrianCockcroft_MigratingToCloudNativeWithMicroservices.pdf) and [Video](http://www.infoq.com/presentations/migration-cloud-native)
 * [Richard Clayton. Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
 * [Stefan Borsje. How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
