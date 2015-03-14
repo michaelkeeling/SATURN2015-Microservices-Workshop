@@ -20,3 +20,4 @@ We encourage attendees to help us curate a list of good reading on the topic.  I
 * [Hunter (of Heroku). Why Microservices Matter](https://blog.heroku.com/archives/2015/1/20/why_microservices_matter)
 * [Sudhir Tonse, Nitesh Kant. MicroServices at Netflix - challenges of scale](http://www.slideshare.net/stonse/microservices-at-netflix)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
+* [What are microservices and why should you care?](http://www.indix.com/blog/microservices-what-are-they)
