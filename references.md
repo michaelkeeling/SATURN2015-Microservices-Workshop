@@ -1,4 +1,4 @@
-We encourage attendees to help us curate a list of good reading on the topic.  In addition to the submitted position papers, here is some other material that would be good to read prior to the workshop.
+We encourage attendees to help us curate a list of good reading on the topic.  In addition to the submitted position papers, here is some other material that would be good to read/skim prior to the workshop.
 
 * [James Lewis and Martin Fowler. Microservices](http://martinfowler.com/articles/microservices.html)
 * [Andrew Harmel-Law. Microservices - A Reality Check(point)](http://capgemini.github.io/architecture/microservices-reality-check/)
@@ -21,3 +21,4 @@ We encourage attendees to help us curate a list of good reading on the topic.  I
 * [Sudhir Tonse, Nitesh Kant. MicroServices at Netflix - challenges of scale](http://www.slideshare.net/stonse/microservices-at-netflix)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
 * [What are microservices and why should you care?](http://www.indix.com/blog/microservices-what-are-they)
+* Liam O'Brien, Len Bass, Paulo Merson. [Quality Attributes and Service Oriented Architectures](http://resources.sei.cmu.edu/asset_files/TechnicalNote/2005_004_001_14489.pdf). Software Engineering Institute (CMU/SEI-2005-TN-014) September 2005
