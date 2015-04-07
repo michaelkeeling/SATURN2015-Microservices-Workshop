@@ -23,6 +23,8 @@ The workshop will take place on Monday, April 27, 2015 in [Baltimore, MD during 
 
 See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/How-to-Join-the-Workshop).
 
+* Len Bass: [Quality Attributes Relevant to Microservices: Supported, Neutral, and Shoe-horned](saturn2015-position-papers/bass-microservices-workshop-position.pdf)
+* Michael Keeling: [A Fine Grained Catastrophe: How Microservices Brought Down an Entire Industry](saturn2015-position-papers/keeling-microservices-workshop-position.pdf), satirical article from the future
 
 
 # About SATURN
