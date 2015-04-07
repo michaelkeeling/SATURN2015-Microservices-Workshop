@@ -7,7 +7,7 @@ We encourage attendees to help us curate a list of good reading on the topic.  I
 * [Richard Clayton. Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
 * [Stefan Borsje. How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 * [Sergio De Simone. Sam Newman: Practial Implications of Microservices](http://www.infoq.com/articles/microservices-practical-tips)
-* [Marin Fowler. Microservice Prerequisites](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
+* [Martin Fowler. Microservice Prerequisites](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
 * [Simon Brown. Distributed Big Balls of Mud](http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html)
 * [Robert C. Martin. Microservices and Jars](http://blog.cleancoder.com/uncle-bob/2014/09/19/MicroServicesAndJars.html)
 * [Todd Hoff. The Great Microservices vs Monolithic Apps Twitter Melee](http://highscalability.com/blog/2014/7/28/the-great-microservices-vs-* monolithic-apps-twitter-melee.html*)
