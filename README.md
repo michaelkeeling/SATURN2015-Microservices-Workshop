@@ -26,6 +26,9 @@ See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Micr
 * Len Bass: [Quality Attributes Relevant to Microservices: Supported, Neutral, and Shoe-horned](saturn2015-position-papers/bass-microservices-workshop-position-saturn2015.pdf)
 * Michael Keeling: [A Fine Grained Catastrophe: How Microservices Brought Down an Entire Industry](saturn2015-position-papers/keeling-microservices-workshop-position-saturn2015.pdf)
 * Thomas Citriniti: [GE Migration to a Microservices Platform for Manufacturing and Analytics](saturn2015-position-papers/citriniti-microservices-workshop-position-saturn2015.pdf)
+* Rebecca Wirfs-Brock: [Why are Big Balls of Mud Easy and Microservice Architectures Hard](saturn2015-position-papers/wirfs-brock-microservices-workshop-position-saturn2015.pdf)
+* Rebecca Wirfs-Brock: [Why are Big Balls of Mud Easy and Microservice Architectures Hard](saturn2015-position-papers/wirfs-brock-microservices-workshop-position-saturn2015.pdf)
+* Einar Landre and Jørn Ølmheim: [Domain Dynamics – The Microservices Achilles heel](saturn2015-position-papers/landre-and-olmheim-microservices-workshop-position-saturn2015.pdf)
 
 
 # About SATURN
