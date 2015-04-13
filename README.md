@@ -28,6 +28,7 @@ See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Micr
 * Thomas Citriniti: [GE Migration to a Microservices Platform for Manufacturing and Analytics](saturn2015-position-papers/citriniti-microservices-workshop-position-saturn2015.pdf)
 * Rebecca Wirfs-Brock: [Why are Big Balls of Mud Easy and Microservice Architectures Hard](saturn2015-position-papers/wirfs-brock-microservices-workshop-position-saturn2015.pdf)
 * Einar Landre and Jørn Ølmheim: [Domain Dynamics – The Microservices Achilles heel](saturn2015-position-papers/landre-and-olmheim-microservices-workshop-position-saturn2015.pdf)
+* Jørn Ølmheim and Einar Landre: [Microservices Position](/saturn2015-position-papers/joelmheim-MicroservicePositionPaper.pdf)
 
 
 # About SATURN
