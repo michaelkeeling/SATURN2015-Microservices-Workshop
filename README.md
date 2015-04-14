@@ -29,7 +29,7 @@ See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Micr
 * Rebecca Wirfs-Brock: [Why are Big Balls of Mud Easy and Microservice Architectures Hard](saturn2015-position-papers/wirfs-brock-microservices-workshop-position-saturn2015.pdf)
 * Einar Landre and Jørn Ølmheim: [Domain Dynamics – The Microservices Achilles heel](saturn2015-position-papers/landre-and-olmheim-microservices-workshop-position-saturn2015.pdf)
 * Jørn Ølmheim and Einar Landre: [Microservices Position](/saturn2015-position-papers/joelmheim-MicroservicePositionPaper.pdf)
-
+* Jim Hurne: [Microservices are not micro](saturn2015-position-papers/hurne-microservices-workshop-position-saturn2015.md)
 
 # About SATURN
 
