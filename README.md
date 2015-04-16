@@ -30,7 +30,8 @@ See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Micr
 * Einar Landre and Jørn Ølmheim: [Domain Dynamics – The Microservices Achilles heel](saturn2015-position-papers/landre-and-olmheim-microservices-workshop-position-saturn2015.pdf)
 * Jørn Ølmheim and Einar Landre: [Microservices Position](/saturn2015-position-papers/joelmheim-MicroservicePositionPaper.pdf)
 * Jim Hurne: [Microservices are not micro](saturn2015-position-papers/hurne-microservices-workshop-position-saturn2015.md)
-* Dennis Mancl: [Microservices Workshop position paper](/saturn2015-position-papers/mancl-microservices-workshop-position-saturn2015.txt)
+* Dennis Mancl: [Microservices Workshop position paper](/saturn2015-position-papers/mancl-microservices-workshop-position-saturn2015.md)
+* Olaf Zimmermann: [Do Microservices Pass the Same Old Architecture Test? or: SOA is Not Dead – Long Live (Micro-)Services](/saturn2015-position-papers/ZIO-microservices-workshop-position-saturn2015.pdf)
 
 
 # About SATURN
