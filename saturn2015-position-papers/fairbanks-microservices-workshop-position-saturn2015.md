@@ -1,0 +1,48 @@
+Agile, Discipline, and Microservices
+====================================
+
+George Fairbanks, 18 April 2015
+
+# Abstract
+
+Agile processes and thinking have helped software development overall but they require discipline from the software teams and that discipline is often lacking.  Developers that fall short of the required discipline are branded as Coding Cowboys but that term may describe the majority of us.  Microservices architecture, an increasingly popular architectural style, is a kind of distributed system that requires even more discipline, prompting the question, “Does our field collectively have enough discipline for Microservices to become commonplace?”  
+
+# 2001-2015: Agile raises the bar and removes guilt
+
+Here is a broad and biased account of software development now versus a decade and a half ago when XP and Agile started out.  Back then, teams used to feel guilty about not “doing software right”, meaning that they had notions of some idealized process they were supposed to follow, usually involving analysis and documentation in addition to the code, and they were somewhat embarrassed when outsiders or newcomers saw what they were actually doing.  And what they were actually doing was some variant of a waterfall process with design document templates guiding them to write down some requirements, some analysis of the problem, and a sketch of their design often including a class diagram.  The popular analysis was object-oriented, perhaps with flavor from a pundit.  Software delivery happened as often as every couple weeks or as infrequently as a couple times per year.  Integration was done just before the whole thing was handed off to a separate testing team, who probably suffered similar guilt about “doing testing right”.  Infrastructure to support other processes was thin, though some built their own.
+
+There were teams back then doing iterative development with robust automated test harnesses, but they were the minority.  I recall the huge improvement in camaraderie and quality our team experienced in the late 90’s when we adopted a 2-week iterative process but at the time short iterations were viewed as radical and risky.  William Gibson has said that the future is already here but it’s not evenly distributed.  So the right question is not whether Agile is the ideal way to do things but whether in aggregate do more team do better with it.
+
+From the companies that have seen through my consulting work, the state of the practice today is much different and on balance better, largely because of the Agile community, its ideas, and the tools that come with it.  Teams are more likely than not to be building incrementally, have automated tests and builds, and sometimes have automated deployments.  Most of what I consider bad bureaucracy in software process has been swept away cleanly.  Teams focus on developing features and no longer feel guilt about some mythical development process ideal that they are not living up to.
+
+Given the widespread improvements, It would be foolish to wish for the old days, but perhaps I can be forgiven for hoping that we can bring back attention to some things that were perhaps overhastily or accidentally discarded during the revolution.  I find that domain/requirements analysis and software design abstractions, including architecture models, get less attention than they used to.  You rarely need to remind a developer to write code -- that’s a basic instinct for us -- so the guilt about “I really should have analyzed this problem better” and “I really should read more books on software design” were an effective counter-balance to those instincts.  
+
+Despite warnings that you should not simply dump your old process and grab a miscellaneous bag of agile practices, I have seen more a-la-carte Agile processes in practice than XP or other curated practices.  One of the Agile principles is that Agile processes should be sustainable, with feature delivery or quality not slipping over time.  The mutt processes I see are more often focused on short-term wins at the expense of sustainable development.
+
+What I rarely observe on teams is any guilt about doing things the wrong way.  Today, being Agile means not having to say you are sorry.  This ranges from teams that are effectively coding cowboys using “we are Agile!” as a shield to teams that are well-intentioned but whose collection of Agile practices are not a substitute for the old processes they dropped.   Not only are teams guiltless that they have dropped waterfall processes, design documents, etc., they do not seem to feel guilt about dropping the discipline of applying a coherent set practices of that Agile process developers exhort.
+
+Managers and teams no longer hear their guilt talking when someone says that they should choose a suitable  architecture.  Teams focused on features pay little attention to architecture abstractions -- perhaps no more or less than they used to, but now it is harder to get their attention.
+
+# Enter Microservices
+
+It is with this jaded, skeptical, and even curmudgeonly attitude about team discipline and attention to abstractions that I view the recent excitement about using the Microservices architectural style to convert monolithic systems into distributed systems.  Let’s start with some good qualities of monoliths compared to distributed systems.  
+
+The big chunks of software in a monolith are usually written in the same programming language and an IDE can easily figure out what connects to what, so with a keypress a developer can find all the callers of a method.  This is generally not true of distributed systems.  Similarly, an IDE with all the source code loaded will tell you instantly if A calls B with the wrong number or wrong type of parameters.  Distributed systems often lack this info and instead rely on tests or even production logs to find the bugs.  For a developer, it is much easier to read the source code and reconstruct flows through a monolith than it is through an otherwise isomorphic distributed system.
+
+With monoliths, developers have to reason about evolution of persistent schemas, such as records in a database.  Some techniques for handling it include migration scripts and methods that tolerate the old and new versions of the data.  The burden is higher for distributed systems because each node could be running a different version of the software, sending messages in old or new formats.  
+
+These challenges from distributed systems are not just another arithmetic addition to a developer’s load but a multiplicative factor in the complexity of the system.  They make everything a developer does harder by some percent.  Given that we each have cognitive limits, this means that we will need to be more disciplined when building a Microservices system than an equivalent monolith.  Where will that extra discipline come from?
+
+# Optimism
+
+Despite my concerns about Agile processes needing more discipline than many teams seem able to muster, there are solid reasons for optimism that the practice of software development is moving in a good direction and Microservices will contribute positively.  
+
+Big monoliths are undeniably worse than Microservices for all the reasons that Microservices are touted, including ability to experiment with different technologies, ability to rewrite chunks as needed, enforced modularity boundaries since each service runs in its own process, and better sub-team velocity because of smaller more reliable test suites.  Some monoliths are big balls of mud and the bigger the monolith the more of a problem that is.
+
+Enterprises already build and run on systems-of-systems, even if they do not think of it that way.  Microservices and SOA force that recognition, which in turn makes it more likely that the problems that arise will get attention.  The future of software is not un-networked desktops but a sea of networked devices, so we should choose architectural patterns that make building those systems easier.
+
+Frameworks are the unsung champions of modern software development, though no champion is more often maligned.  Frameworks are what allow a 10-line program to respond to an HTTP request or render “Hello, world” on an anti-aliased display.  Some in the Microservices community are reasonably skeptical of frameworks because they can lessen the independence of each microservice but I expect that frameworks will play a major role in reducing or eliminating pain points in microservice adoption.
+
+When you reflect on software development as it was done 15 years ago, it is difficult to overlook the support tools that we take for granted now, including automated and continuous test and build environments.  Such tooling will continue to improve in ways that we cannot yet forecast and it will lessen the burden of building and debugging distributed systems.
+
+One last bit of optimism is about the Agile community’s drive to improve.  The attention of the community has shifted over the years, focusing on the topics that seem most pressing.  The Agile manifesto signatories had their roots in object-oriented development and design patterns.  As the community grew, it turned its focus to software development processes, testing, and refactoring.  Its current focus is on automated deployment and DevOps -- and perhaps Microservices.  It is my hope that with the best Agile teams operating with good processes, testing, deployment, etc. that the next item on the agenda will be improving sustainable development.  Solid software architecture, design, and abstractions are essential to maintaining developer velocity and I welcome the Agile community’s focus in this area that we SATURN folks hold dear.
