@@ -32,7 +32,7 @@ See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Micr
 * Jim Hurne: [Microservices are not micro](saturn2015-position-papers/hurne-microservices-workshop-position-saturn2015.md)
 * Dennis Mancl: [Microservices Workshop position paper](/saturn2015-position-papers/mancl-microservices-workshop-position-saturn2015.md)
 * Olaf Zimmermann: [Do Microservices Pass the Same Old Architecture Test? or: SOA is Not Dead – Long Live (Micro-)Services](/saturn2015-position-papers/ZIO-microservices-workshop-position-saturn2015.pdf)
-
+* George Fairbanks: [Agile, Discipline, and Microservices](/saturn2015-position-papers/fairbanks-microservices-workshop-position-saturn2015.md)
 
 # About SATURN
 
