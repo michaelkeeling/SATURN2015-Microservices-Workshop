@@ -9,8 +9,8 @@ The SOA Architectureal style, roughly consistent of these constraints:
 
 Plus organizational constraints
 * Decentralized design authority
-** Architect is a coach
-** Architecture is enforced through tooling (see note below regrading runtime ermergent properties)
+ * Architect is a coach
+ * Architecture is enforced through tooling (see note below regrading runtime ermergent properties)
 * limited time size 
 
 In order to
