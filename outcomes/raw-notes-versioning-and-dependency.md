@@ -80,10 +80,15 @@ What makes versioning / dependency manage different in microservices?
 
 
 Raw notes
+
 ![Raw notes captured during group discussion](/outcomes/images/versioning-and-dependency-notes.jpg)
 
+
 Summary poster of key outcomes from Breakout session.
+
 ![summary poster](/outcomes/images/versioning-and-dependancy-poster.jpg)
 
+
 Gregor presenting the group poster
+
 ![Gregor presenting the group findings](/outcomes/images/afternoon-poster-group-1.jpg)
