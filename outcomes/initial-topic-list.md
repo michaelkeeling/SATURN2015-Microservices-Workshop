@@ -58,3 +58,9 @@ We started the workshop with a brainstorm of potential topics.  Here is the full
 53. Symatic translation
 54. All we have ard Bad examples -- moving from model to ipmlementation
 55. Bad domain examples -- e.g "customer", "loan", ...
+
+Full, initial topic list
+![Initial topic list](/outcomes/images/topic-list.jpg)
+
+Refined/condensed topic list with dot voting
+![Refined topic list](/outcomes/images/refined-topic-list.jpg)
