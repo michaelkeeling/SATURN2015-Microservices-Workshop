@@ -1,5 +1,7 @@
 # Initial topic list
 
+We started the workshop with a brainstorm of potential topics.  Here is the full list (in no particular order) for topics the group came up with.  Some of these topics were consolidated due to similarity.  Four of these broader, consolidated topic areas were discussed during the breakout sessions using these brainstormed ideas as seeds for the disucssion.
+
 1. API Design
 2. Guidelines vs. Standards vs. Culture
 3. How to grow an organization
