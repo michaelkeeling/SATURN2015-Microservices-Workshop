@@ -25,7 +25,7 @@ The workshop took place on Monday, April 27, 2015 in [Baltimore, MD during the S
 * Joe Yoder, [@yodamud](https://twitter.com/yodamud)
 * Olaf Zimmerman
 
-Workshop participants were required to submit a position paper before the workshop as a way to prepare for the workshop discussions.  [References from across the web](references.md) and [some motiviating questions](questions.md) were compiled to help workshop participants prepare and think about their positions.
+Workshop participants were asked to submit a position paper before the workshop as a way to prepare for the workshop discussions.  [References from across the web](references.md) and [some motiviating questions](questions.md) were compiled to help workshop participants prepare and think about their positions.
 
 [The full list of position papers are available in this repository.](/saturn2015-position-papers/position-papers-list.md)
 
@@ -41,7 +41,6 @@ The workshop was conducted as a series of discussions according to [this general
  * [Testing](/outcomes/raw-notes-testing.md)
  * [Versioning and Dependencies](/outcomes/raw-notes-versioning-and-dependency.md)
 * [Key Outcomes](outcomes/key-outcomes.md) -- created as a group at the end of the day
-
 
 
 # About SATURN
@@ -61,3 +60,7 @@ The 11th SEI Architecture Technology User Network (SATURN) Conference — the lo
 ## Acknowledgements
 
 Many thanks to Dennis Mancl for help and guidance organizing the workshop.
+
+Thank you to everyone who particpated in this succesful, fun, and enlightening workshop!
+
+![Workshop participants, group picture](/outcomes/images/saturn-2015-workshop-group.jpg)
