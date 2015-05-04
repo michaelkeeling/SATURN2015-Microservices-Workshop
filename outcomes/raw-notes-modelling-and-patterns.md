@@ -28,22 +28,22 @@ Aggregate Pattern
  - Is this right for microservices?
  - If you can do the aggregate patter, then it's good and desrireable (but you can't always use the pattern)
  - Trade-offs
-  -- Can be large -- lots of parts
-  -- Rich domain model needed
+  - Can be large -- lots of parts
+  - Rich domain model needed
  - Business concepts vs. Data
  - Eveyone needs to understand DDD
 
 "Type A" vs "Type B" Services
  - Type A - Modelled
-  -- modeled
-  -- fully understood
-  -- agreed model
-  -- DDD (but can use other modelling methods as well)
+  - modeled
+  - fully understood
+  - agreed model
+  - DDD (but can use other modelling methods as well)
  - Type B - Free Range
-  -- Not-DDD
-  -- Partially understood
-  -- Scenarios across services
-  -- exploratory
+  - Not-DDD
+  - Partially understood
+  - Scenarios across services
+  - exploratory
  - Can refactor from Free Range to Modelled
 
 How do you model a system well?
@@ -57,11 +57,11 @@ how do you model deployment?
 Modelling desired properties such as security, disaster recovery
  - Don't know all the concerns or requirements up front
  - Quality of services
-  -- how much can you degred?
-  -- Netflix.. chaos gorilla kills a region every quarter
-   --- but nobody dies if you can't stream movies...
-   --- a few participants from telcom e.g. 911 can't go down becuase you're testing resiliancy
-   --- Frustration != crticiallity
+  - how much can you degred?
+  - Netflix.. chaos gorilla kills a region every quarter
+   - but nobody dies if you can't stream movies...
+   - a few participants from telcom e.g. 911 can't go down becuase you're testing resiliancy
+   - Frustration != crticiallity
  - What about modeling levels of degraded behavior?
 
 how do I figure out what is available already?
@@ -84,8 +84,8 @@ Survival of the fittest?
  - organic evolution
  - The "better" servicese will eventually win
  - Freedom and Responsibility
-   -- link to Diane Marsh Keynote last year
-   -- how do you enforce responsibility?
+  - link to Diane Marsh Keynote last year
+  - how do you enforce responsibility?
 
 Dependancies from a specific perspective?
  - scenario, app, or entry point into microservices
@@ -103,19 +103,19 @@ Easier to start with Monolith
 
 Modelled vs. Free Range Services
  - Modelled
-   -- Understood
-   -- Greater stability
-   -- Reasoning ability
-   -- Not necessarily Correct
+  - Understood
+  - Greater stability
+  - Reasoning ability
+  - Not necessarily Correct
  - Free Range Service 
-   -- Exploratory
-   -- Not fully understood
-   -- Mind Meld Required to understand how to use the service -- what's the model?
+  - Exploratory
+  - Not fully understood
+  - Mind Meld Required to understand how to use the service -- what's the model?
 
 What is the "System" in a microservices world?
  - clusters of understanding 
  - Evolutionary - survival of the fittest
  - DRY not as important
  - Modelling desired properties
-   -- security, high Quality of service
-   -- Cautionary Note: Netflix, the "microservices poster child" doesn't have many of these concerns and so have not addressed many of the potential modelling needs.  This does not mean that they are not important.  Frustration != Critical Loss
+  - security, high Quality of service
+  - Cautionary Note: Netflix, the "microservices poster child" doesn't have many of these concerns and so have not addressed many of the potential modelling needs.  This does not mean that they are not important.  Frustration != Critical Loss
