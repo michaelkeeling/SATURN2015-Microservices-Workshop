@@ -1,15 +1,42 @@
 # Modeling and Patterns
 
-Starting seeds
+## Key Outcomes
 
+Easier to start with Monolith
+ - learning
+ - refactoring
+ - moving responsiblties is easier
+ - Conway's Law -- must refactor Org
+
+Modelled vs. Free Range Services
+ - Modelled
+  - Understood
+  - Greater stability
+  - Reasoning ability
+  - Not necessarily Correct
+ - Free Range Service 
+  - Exploratory
+  - Not fully understood
+  - Mind Meld Required to understand how to use the service -- what's the model?
+
+What is the "System" in a microservices world?
+ - clusters of understanding 
+ - Evolutionary - survival of the fittest
+ - DRY not as important
+ - Modelling desired properties
+  - security, high Quality of service
+  - Cautionary Note: Netflix, the "microservices poster child" doesn't have many of these concerns and so have not addressed many of the potential modelling needs.  This does not mean that they are not important.  Frustration != Critical Loss
+
+
+## Raw Notes
+
+Starting seeds
 * Stereotypes
 * Visualization of models
 * Domain modelling
 * Single responsibility principles
 * CQRS
 * Beyond Bounded Context
-
-## Raw Notes
 
 Is it easier to start with a monolith?
  - "monolith as the prototype"
@@ -92,30 +119,7 @@ Dependancies from a specific perspective?
  - Context
  - Dependancy diagrams
 
+## Pictures of Raw Notes
 
-# Key Outcomes
-
-Easier to start with Monolith
- - learning
- - refactoring
- - moving responsiblties is easier
- - Conway's Law -- must refactor Org
-
-Modelled vs. Free Range Services
- - Modelled
-  - Understood
-  - Greater stability
-  - Reasoning ability
-  - Not necessarily Correct
- - Free Range Service 
-  - Exploratory
-  - Not fully understood
-  - Mind Meld Required to understand how to use the service -- what's the model?
-
-What is the "System" in a microservices world?
- - clusters of understanding 
- - Evolutionary - survival of the fittest
- - DRY not as important
- - Modelling desired properties
-  - security, high Quality of service
-  - Cautionary Note: Netflix, the "microservices poster child" doesn't have many of these concerns and so have not addressed many of the potential modelling needs.  This does not mean that they are not important.  Frustration != Critical Loss
+![Raw Notes, modelling and patterns discussion](/outcomes/images/modelling-and-patterns-notes.jpg)
+![Jim presenting the group poster](/outcomes/images/morning-poster-group-1.jpg)
