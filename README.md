@@ -4,35 +4,46 @@ Over the past year or so Microservices Architecture has emerged as a widely disc
 
 This workshop will explore various facets of microservices architecture.  Based on what we learn, we'll create a poster at the end of the day that summarizes our findings to share with the SATURN community during the conference Welcome Reception. Some questions and topics we will consider during the workshop include the following.  [Some questions and topics we will consider during the workshop include the items listed on this page](questions.md).
 
-The workshop will take place on Monday, April 27, 2015 in [Baltimore, MD during the SATURN 2015 conference on software architecture](http://www.sei.cmu.edu/saturn/2015/).  Workshop participants are required to be registered for SATURN 2015.
+The workshop took place on Monday, April 27, 2015 in [Baltimore, MD during the SATURN 2015 conference on software architecture](http://www.sei.cmu.edu/saturn/2015/).
 
-**Important Dates**
+Workshop participants were required to submit a position paper before the workshop as a way to prepare for the workshop discussions.  [References from across the web](references.md) and [some motiviating questions](questions.md) were compiled to help workshop participants prepare and think about their positions.
 
-- Workshop RSVP - April 1, 2015
-- Position papers deadline - April 13, 2015
-- Workshop - April 27, 2015 @ 8:30 AM
+[The full list of position papers are available in this repository.](/saturn2015-position-papers/position-papers-list.md)
 
-**More Information**
 
-- [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/How-to-Join-the-Workshop)
-- [Motivating Questions for Position Papers](questions.md)
-- [Reference Material to help Prepare for the Workshop](references.md)
-- [Tentative Workshop Agenda](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/Workshop-Agenda)
+## Workshop Participants
 
-## Position Papers
+* Len Bass
+* Simon Brown, [@simonbrown](https://twitter.com/simonbrown)
+* Amine Chigani
+* Tom Citriniti
+* George Fairbanks, [@GHFairbanks](https://twitter.com/GHFairbanks)
+* Gregor Hohpe, [@ghohpe](https://twitter.com/ghohpe)
+* Jim Hurne, [@jthurne](https://twitter.com/jthurne)
+* Michael Keeling, [@michaelkeeling](https://twitter.com/michaelkeeling)
+* Jon Keneyer
+* Eianar Landre, [@em_landre](https://twitter.com/em_landre)
+* Dennis Mancl
+* Jorn Olmheim
+* Mary Shaw, [@shaw5131](https://twitter.com/shaw5131)
+* Rebecca Wirfs-Brock, [@rebeccawb](https://twitter.com/rebeccawb)
+* Joe Yoder, [@yodamud](https://twitter.com/yodamud)
+* Olaf Zimmerman
 
-See [How to Join the Workshop](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop/wiki/How-to-Join-the-Workshop).
+## Workshop Outcomes
 
-* Len Bass: [Quality Attributes Relevant to Microservices: Supported, Neutral, and Shoe-horned](saturn2015-position-papers/bass-microservices-workshop-position-saturn2015.pdf)
-* Michael Keeling: [A Fine Grained Catastrophe: How Microservices Brought Down an Entire Industry](saturn2015-position-papers/keeling-microservices-workshop-position-saturn2015.pdf)
-* Thomas Citriniti: [GE Migration to a Microservices Platform for Manufacturing and Analytics](saturn2015-position-papers/citriniti-microservices-workshop-position-saturn2015.pdf)
-* Rebecca Wirfs-Brock: [Why are Big Balls of Mud Easy and Microservice Architectures Hard](saturn2015-position-papers/wirfs-brock-microservices-workshop-position-saturn2015.pdf)
-* Einar Landre and Jørn Ølmheim: [Domain Dynamics – The Microservices Achilles heel](saturn2015-position-papers/landre-and-olmheim-microservices-workshop-position-saturn2015.pdf)
-* Jørn Ølmheim and Einar Landre: [Microservices Position](/saturn2015-position-papers/joelmheim-MicroservicePositionPaper.pdf)
-* Jim Hurne: [Microservices are not micro](saturn2015-position-papers/hurne-microservices-workshop-position-saturn2015.md)
-* Dennis Mancl: [Microservices Workshop position paper](/saturn2015-position-papers/mancl-microservices-workshop-position-saturn2015.md)
-* Olaf Zimmermann: [Do Microservices Pass the Same Old Architecture Test? or: SOA is Not Dead – Long Live (Micro-)Services](/saturn2015-position-papers/ZIO-microservices-workshop-position-saturn2015.pdf)
-* George Fairbanks: [Agile, Discipline, and Microservices](/saturn2015-position-papers/fairbanks-microservices-workshop-position-saturn2015.md)
+The workshop was conducted as a series of discussions according to [this general schedule](agenda.md).
+
+* [Initial Topics List](/outcomes/initial-topic-list.md) -- created during a group brainstorming.
+* Raw Notes from Breakout 1
+** [Modelling and Testing](/outcomes/raw-notes-modelling-and-patterns.md)
+** [API Design](/outcomes/raw-notes-API-design.md)
+* Raw Notes from Breakout 2
+** [Testing](/outcomes/raw-notes-testing.md)
+** [Versioning and Dependencies](/outcomes/raw-notes-versioning-and-dependency.md)
+* [Key Outcomes](outcomes/key-outcomes.md) -- created as a group at the end of the day
+
+
 
 # About SATURN
 

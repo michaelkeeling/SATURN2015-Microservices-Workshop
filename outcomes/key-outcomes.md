@@ -11,7 +11,7 @@ Plus organizational constraints
 * Decentralized design authority
  * Architect is a coach
  * Architecture is enforced through tooling (see note below regrading runtime ermergent properties)
-* limited time size 
+* limited team size 
 
 In order to
 * Sustain high delivery velocity by removing contention between teams and allowing rapid evolution (i.e. business agility and responding to change)
