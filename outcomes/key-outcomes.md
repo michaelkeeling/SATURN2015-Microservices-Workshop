@@ -42,8 +42,8 @@ There is a cost to being able to develop software in this way.  But you get bene
 
 * Cannot see the system until fully deployed -- and only at run time
 * Linking is not only dynamic but often distributed
--- configuration
--- communication to components
+ - configuration
+ - communication to components
 * Versions of modules become dynamic dispatch of versions of services.
 
 
