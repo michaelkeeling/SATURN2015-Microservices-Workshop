@@ -45,3 +45,11 @@ There is a cost to being able to develop software in this way.  But you get bene
 -- configuration
 -- communication to components
 * Versions of modules become dynamic dispatch of versions of services.
+
+
+
+![Poster 1](/outcomes/images/final-poster-1.jpg)
+
+![Poster 2](/outcomes/images/final-poster-2.jpg)
+
+![Poster 3](/outcomes/images/final-poster-3.jpg)
