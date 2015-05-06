@@ -48,8 +48,6 @@ There is a cost to being able to develop software in this way.  But you get bene
 
 
 
-![Poster 1](/outcomes/images/final-poster-1.jpg)
-
-![Poster 2](/outcomes/images/final-poster-2.jpg)
-
-![Poster 3](/outcomes/images/final-poster-3.jpg)
+<img alt="Poster 1" src="/outcomes/images/final-poster-1.jpg" width="350" />
+<img alt="Poster 2" src="/outcomes/images/final-poster-2.jpg" width="350" />
+<img alt="Poster 3" src="/outcomes/images/final-poster-3.jpg" width="350" />
