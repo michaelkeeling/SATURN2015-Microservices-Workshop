@@ -35,7 +35,7 @@ The workshop was conducted as a series of discussions according to [this general
 
 * [Initial Topics List](/outcomes/initial-topic-list.md) -- created during a group brainstorming.
 * Raw Notes from Breakout 1
- * [Modelling and Testing](/outcomes/raw-notes-modelling-and-patterns.md)
+ * [Modelling and Patterns](/outcomes/raw-notes-modelling-and-patterns.md)
  * [API Design](/outcomes/raw-notes-API-design.md)
 * Raw Notes from Breakout 2
  * [Testing](/outcomes/raw-notes-testing.md)
