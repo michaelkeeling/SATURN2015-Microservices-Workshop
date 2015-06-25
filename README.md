@@ -19,7 +19,7 @@ The workshop took place on Monday, April 27, 2015 in [Baltimore, MD during the S
 * Jon Keneyer
 * Eianar Landre, [@em_landre](https://twitter.com/em_landre)
 * Dennis Mancl
-* Jorn Olmheim
+* Jørn Ølmheim, [@joelmheim](https://twitter.com/joelmheim)
 * Mary Shaw, [@shaw5131](https://twitter.com/shaw5131)
 * Rebecca Wirfs-Brock, [@rebeccawb](https://twitter.com/rebeccawb)
 * Joe Yoder, [@yodamud](https://twitter.com/yodamud)
